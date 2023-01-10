@@ -1,0 +1,6 @@
+2023-01-09 17:46:00 INFO  TV:25 - Canale inserito: Canale
+2023-01-09 17:46:14 INFO  TV:25 - Canale inserito: Canale5
+2023-01-09 17:47:24 INFO  TV:25 - Canale inserito: canale5
+2023-01-09 17:47:44 INFO  TV:24 - Canale inserito: Canale5
+2023-01-09 17:48:07 INFO  TV:37 - Canale settato: Italia1
+2023-01-10 08:29:35 INFO  TV:37 - Canale settato: canale5
