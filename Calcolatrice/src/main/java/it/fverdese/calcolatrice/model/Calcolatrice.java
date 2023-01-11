@@ -16,7 +16,14 @@ public class Calcolatrice {
 	}
 	
 	public double divisione(double divnd, double divsor) {
-		return divnd / divsor;
+		double res = 0;
+		if (divsor != 0) {
+			res = divnd/divsor;
+		}
+		else {
+			throw new IllegalArgumentException("Illegal argument: / by 0");
+		}
+		return res;
 	}
 	
 	public double moltiplicazione(double fatt1, double fatt2) {

@@ -35,9 +35,9 @@ public class CalcolatriceTest {
 	@Test
 	void divisioneTest() {
 		double divnd = 5;
-		double divsor = 3;
+		double divsor = 0;
 		Calcolatrice cal = new Calcolatrice();
-		assertEquals(divnd/divsor, cal.divisione(divnd, divsor));
+		assertEquals(cal.divisione(divnd, divsor), divnd/divsor);
 	}
 	
 	@Test
