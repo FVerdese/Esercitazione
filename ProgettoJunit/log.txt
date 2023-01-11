@@ -1,0 +1,6 @@
+2023-01-11 16:57:44 ERROR Main:39 - java.lang.IllegalArgumentException: Valore del giono invalido
+2023-01-11 16:58:21 ERROR Main:39 - java.lang.IllegalArgumentException: Valore del mese invalido
+2023-01-11 16:59:55 INFO  Main:18 - Operazione avviata
+2023-01-11 17:00:06 INFO  Main:40 - Operazione effettuata con successo
+2023-01-11 17:00:27 INFO  Main:18 - Operazione avviata
+2023-01-11 17:00:35 ERROR Main:42 - java.lang.IllegalArgumentException: Valore del giorno invalido
